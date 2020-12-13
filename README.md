@@ -20,7 +20,7 @@
 开源内容：https://datawhalechina.github.io/joyful-pandas/build/html/目录/ch2.html
 打卡链接：https://shimo.im/forms/pkcSQkUYy0Ek6lAD/fill
 打卡结果：https://shimo.im/sheets/m5kv9bbXrosvBxqX/MODOC/
-Task03：索引（3天）
+### Task03：索引（3天）
 打卡截止：12月22日23:59
 开源内容：https://datawhalechina.github.io/joyful-pandas/build/html/目录/ch3.html
 打卡链接：https://shimo.im/forms/iNmwHEkRpE4DGeRZ/fill
